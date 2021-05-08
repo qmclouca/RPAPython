@@ -1,4 +1,4 @@
-// local custom helper function to check if UI element exists
+w// local custom helper function to check if UI element exists
 // keep checking until timeout is reached before return result
 // effect is interacting with element as soon as it appears
 

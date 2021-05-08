@@ -1,4 +1,4 @@
-pip install pyautogui         //controle de mouse e teclado
+virtualpip install pyautogui         //controle de mouse e teclado
 pip install rpa
 pip install pandas
 pip install opencv-python     //automations using images
